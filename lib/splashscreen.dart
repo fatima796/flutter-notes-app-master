@@ -48,7 +48,6 @@ class AfterSplash extends StatelessWidget {
               fontSize: 30.0
           ),
         ),
-
       ),
     );
   }
